@@ -109,7 +109,7 @@ npm run dev
 
 ```text
 Username: Sagar
-Password: Radha
+Password: 
 ```
 
 These credentials are hardcoded for demonstration purposes only.
